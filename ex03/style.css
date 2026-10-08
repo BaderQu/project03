@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 40px;
+}
+
+#count {
+  font-size: 4rem;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.positive {
+  color: green;
+}
+
+.negative {
+  color: red;
+}
+
+button {
+  font-size: 1rem;
+  padding: 10px 20px;
+  margin: 0 5px;
+  cursor: pointer;
+}
